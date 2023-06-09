@@ -1,0 +1,19 @@
+body{
+    background-color: #E5E5E5;
+}
+
+div{
+    width: 350px;
+    height: 440px;
+    background-color: #FFFFFF;
+    border: solid;
+    border-color: #FFFFFF;
+}
+
+button{
+    width: 350px;
+    height: 71px;
+    border: solid;
+    border-color: #EA0774;
+    background-color: #EA0774;
+}
